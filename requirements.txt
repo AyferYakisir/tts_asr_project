@@ -1,0 +1,6 @@
+TTS
+openai-whisper
+sounddevice
+numpy
+librosa
+soundfile
